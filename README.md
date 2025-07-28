@@ -1,2 +1,3 @@
 # allaboutgit
-author - ayushbhule
+author - ayush
+
